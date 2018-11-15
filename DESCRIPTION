@@ -1,0 +1,11 @@
+Package: xsc
+Type: Package
+Title: Read xsc files
+Version: 0.1.0
+Author: Peer Christensen
+Maintainer: Peer Christensen <hr.pchristensen@gmail.com>
+Description: -
+License: -
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
